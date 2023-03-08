@@ -1,4 +1,5 @@
 # What's for Dinner? 
+## [try it here](https://pma913.github.io/whats-for-dinner/)
 
 ### Abstract:
 [//]: <> (Briefly describe what you built and its features. What problem is the app solving? How does this application solve that problem?)
@@ -23,7 +24,7 @@ I think I had to put roughly 10 - 15 hours into this project. The MVP was around
 ### Contributors:
 [//]: <> (Who worked on this application? Link to their GitHubs.)
 
-Just me on this project: https://github.com/Pma913
+[Patrick Ankiewica](https://www.linkedin.com/in/patrick-ankiewicz/)
 
 ### Learning Goals:
 [//]: <> (What were the learning goals of this project? What tech did you work with?)
